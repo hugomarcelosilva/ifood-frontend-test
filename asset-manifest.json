@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/ifood-frontend-test/static/js/main.a59bdfbb.chunk.js",
+    "main.js.map": "/ifood-frontend-test/static/js/main.a59bdfbb.chunk.js.map",
+    "runtime-main.js": "/ifood-frontend-test/static/js/runtime-main.0373e3d8.js",
+    "runtime-main.js.map": "/ifood-frontend-test/static/js/runtime-main.0373e3d8.js.map",
+    "static/css/2.84c7e285.chunk.css": "/ifood-frontend-test/static/css/2.84c7e285.chunk.css",
+    "static/js/2.64f01c6e.chunk.js": "/ifood-frontend-test/static/js/2.64f01c6e.chunk.js",
+    "static/js/2.64f01c6e.chunk.js.map": "/ifood-frontend-test/static/js/2.64f01c6e.chunk.js.map",
+    "static/js/3.5ac349be.chunk.js": "/ifood-frontend-test/static/js/3.5ac349be.chunk.js",
+    "static/js/3.5ac349be.chunk.js.map": "/ifood-frontend-test/static/js/3.5ac349be.chunk.js.map",
+    "index.html": "/ifood-frontend-test/index.html",
+    "static/css/2.84c7e285.chunk.css.map": "/ifood-frontend-test/static/css/2.84c7e285.chunk.css.map",
+    "static/js/2.64f01c6e.chunk.js.LICENSE.txt": "/ifood-frontend-test/static/js/2.64f01c6e.chunk.js.LICENSE.txt",
+    "static/media/logo.7000afed.png": "/ifood-frontend-test/static/media/logo.7000afed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0373e3d8.js",
+    "static/css/2.84c7e285.chunk.css",
+    "static/js/2.64f01c6e.chunk.js",
+    "static/js/main.a59bdfbb.chunk.js"
+  ]
+}
